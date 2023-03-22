@@ -1,0 +1,42 @@
+﻿CREATE TABLE Categories
+(
+	CategoryId INT IDENTITY PRIMARY KEY,
+	CategoryName NVARCHAR(40) NOT NULL,
+	Description NVARCHAR(140) NOT NULL
+)
+GO
+CREATE TABLE Products
+(
+	ProductId INT IDENTITY PRIMARY KEY,
+	ProductName NVARCHAR(40) NOT NULL,
+	Price MONEY NOT NULL,
+	ExpireDate DATE NOT NULL,
+	Picture NVARCHAR(50) NOT NULL,
+	OnSale BIT,
+	CategoryId INT NOT NULL REFERENCES Categories(CategoryId)
+)
+GO 
+CREATE TABLE Customers
+(
+	CustomerId INT IDENTITY PRIMARY KEY,
+	CustomerName NVARCHAR(40) NOT NULL,
+	Phone NVARCHAR(20) NOT NULL,
+	[Address] NVARCHAR(150) NOT NULL,
+)
+GO
+CREATE TABLE Orders
+(
+	OrderId INT IDENTITY PRIMARY KEY,
+	OrderDate DATE NOT NULL,
+	DeliveryDate DATE NULL,
+	CustomerId INT NOT NULL REFERENCES Customers(CustomerId)
+)
+GO
+CREATE TABLE OrderItems 
+(
+	OrderId INT NOT NULL REFERENCES Orders(OrderId),
+	ProductId INT NOT NULL REFERENCES Products(ProductId),
+	Quantity INT NOT NULL,
+	PRIMARY KEY(OrderId, ProductId)
+)
+GO

@@ -1,0 +1,230 @@
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\OrderManagement.dll.config
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\OrderManagement.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\OrderManagement.pdb
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\csc.exe
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\csc.exe.config
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\csc.rsp
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\csi.exe
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\csi.exe.config
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\csi.rsp
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Buffers.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Memory.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Numerics.Vectors.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\vbc.exe
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\vbc.exe.config
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\vbc.rsp
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\VBCSCompiler.exe
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M6\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M6\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+D:\R52\M6\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\EntityFramework.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\EntityFramework.SqlServer.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Owin.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\EntityFramework.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\EntityFramework.SqlServer.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportSource.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.Shared.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\stdole.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.Web.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Project\OrderManagement\OrderManagement\bin\OrderManagement.dll.config
+D:\Project\OrderManagement\OrderManagement\bin\OrderManagement.dll
+D:\Project\OrderManagement\OrderManagement\bin\OrderManagement.pdb
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\csc.exe
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\csc.exe.config
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\csc.rsp
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\csi.exe
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\csi.exe.config
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\csi.rsp
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Buffers.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Memory.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Numerics.Vectors.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\vbc.exe
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\vbc.exe.config
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\vbc.rsp
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\VBCSCompiler.exe
+D:\Project\OrderManagement\OrderManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\OrderManagement\OrderManagement\bin\EntityFramework.dll
+D:\Project\OrderManagement\OrderManagement\bin\EntityFramework.SqlServer.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.dll
+D:\Project\OrderManagement\OrderManagement\bin\Owin.dll
+D:\Project\OrderManagement\OrderManagement\bin\EntityFramework.xml
+D:\Project\OrderManagement\OrderManagement\bin\EntityFramework.SqlServer.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.xml
+D:\Project\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+D:\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.dll
+D:\Project\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\Project\OrderManagement\OrderManagement\bin\log4net.dll
+D:\Project\OrderManagement\OrderManagement\bin\log4net.xml
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportSource.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.Shared.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.Web.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project\OrderManagement\OrderManagement\bin\stdole.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\log4net.dll
+D:\R52\M6\Project\OrderManagement\OrderManagement\bin\log4net.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\OrderManagement.dll.config
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\OrderManagement.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\OrderManagement.pdb
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\csc.exe
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\csc.exe.config
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\csc.rsp
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\csi.exe
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\csi.exe.config
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\csi.rsp
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Buffers.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Memory.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Numerics.Vectors.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\vbc.exe
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\vbc.exe.config
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\vbc.rsp
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\VBCSCompiler.exe
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\EntityFramework.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\EntityFramework.SqlServer.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\log4net.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Owin.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\stdole.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\EntityFramework.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\EntityFramework.SqlServer.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\log4net.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\obj\Debug\OrderManagement.dll
+E:\1270726-Tarana\Module-06 ASP.NET\1270726\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
